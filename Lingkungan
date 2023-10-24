@@ -25,4 +25,4 @@ async def anorganik (ctx):
     await ctx.send(sampah_anorganik())  
 
 
-bot.run("MTE1ODM4ODUwMDcwNjYzNTgyNg.GOu152.k-YtNoHLLEWAQEmtuKNHMMOoJujOf0WxeKlZfQ")  
+  
